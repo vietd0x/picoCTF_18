@@ -1,0 +1,2 @@
+using the 'file' command, we know that is a JPEG image data .jpg
+picoCTF{extensions_are_a_lie}
